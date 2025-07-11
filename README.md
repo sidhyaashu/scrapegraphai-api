@@ -3,9 +3,8 @@
 # ScrapeGraphAI API Documentation
 
 **Version:** 1.2.0
-**Base URL:** `https://your-api-url.onrender.com` (Replace with your actual deployed URL)
+**Base URL:** `https://your-api-url.onrender.com`
 
-Welcome to the ScrapeGraphAI REST API. This API provides a suite of powerful, AI-driven web scraping and data extraction tools through a simple and consistent interface.
 
 ## Authentication
 

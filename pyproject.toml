@@ -1,0 +1,23 @@
+[project]
+name = "scrapograph-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "fastapi>=0.116.0",
+    "html2text>=2025.4.15",
+    "ipykernel>=6.29.5",
+    "langchain-openai>=0.3.27",
+    "nest-asyncio>=1.6.0",
+    "pandas>=2.3.1",
+    "playwright>=1.53.0",
+    "pydantic>=2.11.7",
+    "python-dotenv>=1.1.1",
+    "qdrant-client>=1.14.3",
+    "requests>=2.32.4",
+    "scrapegraph-py>=1.14.1",
+    "scrapegraphai>=1.61.0",
+    "uvicorn[standard]>=0.35.0",
+]

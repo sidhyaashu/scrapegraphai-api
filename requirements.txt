@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+scrapegraphai
+scrapegraph-py
+langchain_openai
+pydantic
+beautifulsoup4
+playwright
+html2text
+requests
+ipykernel
+qdrant-client
+nest_asyncio
+pandas

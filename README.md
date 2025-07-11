@@ -28,7 +28,9 @@ A simple endpoint to verify that the API is running and responsive.
     {
       "status": "ok"
     }
-    ```*   **cURL Example:**
+    ```
+    
+    **cURL Example:**
     ```bash
     curl -X GET "https://your-api-url.onrender.com/health"
     ```
